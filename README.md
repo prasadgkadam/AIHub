@@ -28,7 +28,7 @@ AIHub is a full-stack web platform that aggregates multiple AI tools behind a si
 ## Project structure
 
 ```
-aihub/
+aihub2/
 ├── admin/                  # Admin panel (separate auth, tool/user management)
 ├── database/
 │   ├── schema.sql          # Full database schema
