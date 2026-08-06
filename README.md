@@ -24,7 +24,6 @@ AIHub is a centralized platform that integrates multiple AI tools and services i
 * HTML5
 * CSS3
 * JavaScript
-* Tailwind CSS
 
 ### Backend
 
