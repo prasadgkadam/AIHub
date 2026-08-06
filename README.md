@@ -97,7 +97,7 @@ git clone https://github.com/your-username/AIHub.git
 7. Open the application in your browser:
 
 ```text
-http://localhost/AIHub
+http://localhost/aihub2/
 ```
 
 ## Usage
