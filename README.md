@@ -21,7 +21,7 @@ AIHub is a full-stack web platform that aggregates multiple AI tools behind a si
 |---|---|
 | Backend | PHP (PDO + MySQL) |
 | Database | MySQL |
-| Frontend | HTML, CSS, vanilla JavaScript |
+| Frontend | HTML, CSS,JavaScript |
 | Mail | PHPMailer (Gmail SMTP) |
 | Local dev | WAMP |
 
